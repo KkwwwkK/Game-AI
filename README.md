@@ -9,6 +9,9 @@ This repository provides a Wordle solver powered by an AI language model. The so
 - Python 3.7+
 - [Transformers](https://github.com/huggingface/transformers)
 
+Install dependencies:
+pip install transformers requests
+
 ## Run on Google Colab
 
 ### Requirements

@@ -1,7 +1,7 @@
 # Wordle Solver with AI
 
 ## Overview
-This repository provides a Wordle solver powered by an AI language model. The solver leverages machine learning to generate possible word candidates and refines these options based on Wordle feedback.
+This repository provides a Wordle solver powered by an LLM model. The solver leverages AI technology to generate possible word candidates and refines these options based on Wordle feedback.
 
 ## Installation & Quick Start
 
